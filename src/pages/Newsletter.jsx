@@ -90,7 +90,7 @@ export default function Newsletter() {
       </div>
       <div className="flex-1 flex justify-center">
         <img
-          src="src/photos/kids3.jpg"
+          src="/photos/kids3.jpg"
           alt="Parent and child"
           className="w-[616px] h-[400px] object-cover"
         />

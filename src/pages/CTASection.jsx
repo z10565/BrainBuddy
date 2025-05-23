@@ -4,7 +4,7 @@ export default function CTASection() {
   return (
     <section
       className="relative bg-cover bg-center w-full h-[415px]"
-      style={{ backgroundImage: "url('src/photos/kids4.jpg')" }}
+      style={{ backgroundImage: "url('/photos/kids4.jpg')" }}
     >
       {/* Content */}
       <div className="relative z-10 flex flex-col items-start justify-center h-full max-w-4xl mx-auto px-6 text-white">

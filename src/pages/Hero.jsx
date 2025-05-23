@@ -24,7 +24,7 @@ export default function Hero() {
       </div>
       <div className="flex-1 flex justify-center">
         <img
-          src="src/photos/kids1.jpg"
+          src="/photos/kids1.jpg"
           alt="Happy kids"
           className="rounded-lg w-full max-w-md object-cover"
         />

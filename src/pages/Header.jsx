@@ -49,13 +49,14 @@ export default function Header() {
           className="font-bold text-lg cursor-pointer"
           onClick={() => navigate("/")}
         >
-          BrainBuddy
+          Nazar
         </div>
 
         {/* Navigation */}
         <nav className="hidden md:flex space-x-6 text-sm relative">
           <button onClick={() => navigate("/screening")} className="hover:underline">Screening</button>
-          <button onClick={() => navigate("/comingsoon")} className="hover:underline">About</button>
+          <button onClick={() => navigate("/comingsoon")} className="hover:underline">Progress Bar</button>
+          <button onClick={() => navigate("/about")} className="hover:underline">About</button>
           <button onClick={() => navigate("/contact")} className="hover:underline">Contact</button>
 
           {/* Resources */}
@@ -87,6 +88,11 @@ export default function Header() {
                   <li>
                     <button onClick={() => navigate("/webinars")} className="hover:underline">
                       Webinars
+                    </button>
+                  </li>
+                  <li>
+                    <button onClick={() => navigate("/comingsoon")} className="hover:underline">
+                      Consultation
                     </button>
                   </li>
                   <li>

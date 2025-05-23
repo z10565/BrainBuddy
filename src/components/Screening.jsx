@@ -47,7 +47,7 @@ export default function ADHDScreeningChat() {
   };
 
   const finishScreening = (allAnswers) => {
-    // Simple scoring system example (can replace with GPT API call later)
+    // Simple scoring system example (replace with GPT API call later)
     const highFrequencyWords = ["very often", "often", "frequently", "always"];
     const score = allAnswers.reduce((acc, answer) => {
       const lower = answer.toLowerCase();

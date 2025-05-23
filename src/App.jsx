@@ -13,9 +13,11 @@ import Webinars from "./components/Webinars"
 import NoADHD from "./components/noADHD";
 import Articles from "./components/Articles"
 import PomodoroTimer from "./components/Pomodoro";
+import About from "./components/About"
 
 import Games from "./components/Games"
 import Game1 from './components/Games/Game1.jsx';
+import Game2 from './components/Games/Game2.jsx';
 
 export default function App() {
   return (
@@ -34,9 +36,11 @@ export default function App() {
             <Route path="/webinars" element={<Webinars/>}/>
             <Route path="/articles" element={<Articles/>}/>
             <Route path="/timer" element={<PomodoroTimer/>}/>
+            <Route path="/about" element={<About/>}/>
             
             <Route path="/games" element={<Games/>}/>
             <Route path="/game1" element={<Game1/>}/>
+            <Route path="/game2" element={<Game2/>}/>
             <Route path="/noADHD" element={<NoADHD/>}/>
           </Routes>
         </main>

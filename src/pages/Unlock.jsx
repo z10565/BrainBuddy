@@ -37,7 +37,7 @@ export default function Unlock() {
         </div>
       </div>
       <div className="flex-1 flex justify-center">
-        <img src="src/photos/kids2.jpg" alt="Child at piano" className="rounded-lg w-full max-w-md object-cover" />
+        <img src="/photos/kids2.jpg" alt="Child at piano" className="rounded-lg w-full max-w-md object-cover" />
       </div>
     </section>
   );

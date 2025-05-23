@@ -1,21 +1,21 @@
 const team = [
   {
     name: "Zarina",
-    role: "Founder & Full-Stack Developer",
+    role: "Full-Stack Developer",
     desc: "Passionate about helping children reach their full potential through innovative strategies and support.",
-    img: "src/photos/ZarinaPhoto.JPG",
+    img: "/photos/ZarinaPhoto.JPG",
   },
   {
-    name: "Dilshoda",
-    role: "Project Manager & Creative ideas",
+    name: "Dilnaz",
+    role: "Project Manager",
     desc: "Focusing on emotional well-being and behavioral strategies for children with ADHD.",
-    img: "src/photos/Dilshoda.jpg",
+    img: "/photos/Dilnaz.jpg",
   },
   {
-    name: "Dilnoza",
-    role: "Marketologist & Marketing Specialist",
+    name: "Azhar",
+    role: "Game developer",
     desc: "Developing resources that empower parents and support children's academic growth.",
-    img: "src/photos/Dilnoza.PNG",
+    img: "/photos/Azhar.jpg",
   },
 ];
 

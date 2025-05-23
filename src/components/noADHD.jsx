@@ -2,10 +2,10 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 
 const resources = [
-  { title: "Webinars", image: "/src/icons/Webinars.svg", link: "/webinars" },
-  { title: "Articles", image: "src/icons/Aricles.svg", link: "/articles" },
-  { title: "Games", image: "/src/icons/Games.svg", link: "/games" },
-  { title: "Pomodoro Timer", image: "/src/icons/Timer.svg", link: "/timer" },
+  { title: "Webinars", image: "/icons/Webinars.svg", link: "/webinars" },
+  { title: "Articles", image: "/icons/Aricles.svg", link: "/articles" },
+  { title: "Games", image: "/icons/Games.svg", link: "/games" },
+  { title: "Pomodoro Timer", image: "/icons/Timer.svg", link: "/timer" },
 ];
 
 export default function NoADHDPage() {

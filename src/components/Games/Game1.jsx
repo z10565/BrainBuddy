@@ -10,7 +10,7 @@ const shuffleArray = (array) => {
     .map((item, index) => ({ id: index, content: item, flipped: false, matched: false }));
 };
 
-export default function MemoryGame() {
+export default function Game1() {
   const [cards, setCards] = useState([]);
   const [firstCard, setFirstCard] = useState(null);
   const [secondCard, setSecondCard] = useState(null);

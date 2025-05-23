@@ -1,16 +1,16 @@
 const features = [
   {
-    img: "src/icons/Shape.svg",
+    img: "/icons/Shape.svg",
     title: "Screening Questionnaire for Early Detection",
     desc: "Identify unique strengths and challenges with our effective ADHD screening questionnaire.",
   },
   {
-    img: "src/icons/gamepad.svg",
+    img: "/icons/gamepad.svg",
     title: "Gamified Learning for Enhanced Engagement",
     desc: "Interactive games and activities to make learning fun and rewarding.",
   },
   {
-    img: "src/icons/community.svg",
+    img: "/icons/community.svg",
     title: "Expert Parenting Tips for Support",
     desc: "Access valuable strategies and actionable tips curated by pediatric and child development experts.",
   },

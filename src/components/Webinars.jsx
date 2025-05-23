@@ -23,7 +23,7 @@ const webinarLinks = [
                 className="bg-[#fef4ee] p-6 rounded-lg flex justify-center items-center hover:shadow-lg transition"
               >
                 <img
-                  src="/src/icons/Webinars.svg" 
+                  src="/icons/Webinars.svg" 
                   alt="Webinar"
                   className="w-24 h-24 object-contain"
                 />

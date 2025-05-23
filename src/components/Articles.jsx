@@ -21,7 +21,7 @@ const ArticlesLinks = [
                 className="bg-[#F6EEFF] p-6 rounded-lg flex justify-center items-center hover:shadow-lg transition"
               >
                 <img
-                  src="src/icons/Aricles.svg" 
+                  src="/icons/Aricles.svg" 
                   alt="Webinar"
                   className="w-24 h-24 object-contain"
                 />

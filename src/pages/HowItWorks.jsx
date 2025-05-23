@@ -4,19 +4,19 @@ const steps = [
     desc: "Start with a free screening to identify potential challenges your child may face.",
     buttonPrimary:"Start",
     buttonSecondary:"Learn",
-    img: "src/icons/Shape.svg",
+    img: "/icons/Shape.svg",
   },
   {
     title: "Engaging Learning",
     desc: "Access games tailored for your child's needs.",
     button: "Play",
-    img: "src/icons/gamepad.svg",
+    img: "/icons/gamepad.svg",
   },
   {
     title: "Track progress and tips",
     desc: "Monitor growth with personalized insights and expert advice.",
     button: "Explore",
-    img: "src/icons/lighting.svg",
+    img: "/icons/lighting.svg",
   },
 ];
 
