@@ -37,8 +37,8 @@ function Games() {
   const games = [
     { name: 'Memory Match', route: '/game1' },
     { name: 'Whack-a-Mole', route: '/game2' },
-    { name: 'Focus Catcher', route: '/game3' },
-    { name: 'Impulse Ninja', route: '/game4' },
+    // { name: 'Focus Catcher', route: '/game3' },
+    // { name: 'Impulse Ninja', route: '/game4' },
     
   ];
 

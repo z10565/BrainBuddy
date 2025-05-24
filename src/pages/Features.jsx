@@ -39,9 +39,9 @@ export default function Features() {
             </div>
             <h3 className="font-bold mb-2">{f.title}</h3>
             <p className="text-gray-600 mb-4">{f.desc}</p>
-            <button className="text-sm text-black border-b border-black hover:border-red-800">
+            {/* <button className="text-sm text-black border-b border-black hover:border-red-800">
               Learn More
-            </button>
+            </button> */}
           </div>
         ))}
       </div>
